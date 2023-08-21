@@ -18,16 +18,6 @@ export const Footer = () => {
             >
               vinihvc
             </a>
-            . Highly inspired by{' '}
-            <a
-              href={CONFIG.shadcn}
-              target="_blank"
-              rel="noreferrer noopener"
-              className="font-medium text-white underline underline-offset-4"
-            >
-              shadcn
-            </a>
-            .
           </p>
         </div>
       </div>
